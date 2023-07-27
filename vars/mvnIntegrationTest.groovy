@@ -1,3 +1,3 @@
-de call(){
+def call(){
     sh 'mvn verify -DskipUnitTests'
 }
